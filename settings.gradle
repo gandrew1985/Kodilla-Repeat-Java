@@ -1,1 +1,3 @@
 rootProject.name = 'kodilla-repeat'
+include 'repeat-hibernate'
+
