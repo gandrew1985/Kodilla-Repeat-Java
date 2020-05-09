@@ -1,3 +1,5 @@
 rootProject.name = 'kodilla-repeat'
 include 'repeat-hibernate'
+include 'list&map'
+include 'repeat-map'
 
